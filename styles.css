@@ -9,9 +9,6 @@ body{
   margin: 0px 60px;
   text_decoration: none;
 }
-.item:hover {
-  text_decoration: underline;
-}
 .centered {
   margin: 0;
   position: absolute;
